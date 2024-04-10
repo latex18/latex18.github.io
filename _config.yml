@@ -101,4 +101,8 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/latex18/latex18.github.io.git
+  branch: master
+
+
